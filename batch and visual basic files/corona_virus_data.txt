@@ -1,0 +1,2 @@
+C:\Users\Ovbude\PycharmProjects\helloworld\Datamine\datascience.py
+cmd /k
